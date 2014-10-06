@@ -1,0 +1,164 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Philosopher
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.
+    License: Copyright (c) June 5, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name Nixie.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Jovanny Lemonad
+    Vendor url: http://www.jovanny.ru/
+    Designer: Jovanny Lemonad
+    Designer url: http://www.jovanny.ru/
+    Glyph count: 331
+    Character count: 323
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+  Font:
+    Common name: Philosopher
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.
+    License: Copyright (c) June 5, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name Nixie.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Jovanny Lemonad
+    Vendor url: http://www.jovanny.ru/
+    Designer: Jovanny Lemonad
+    Designer url: http://www.jovanny.ru/
+    Glyph count: 331
+    Character count: 323
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+  Font:
+    Common name: Philosopher
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.
+    License: Copyright (c) June 5, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name Nixie.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Jovanny Lemonad
+    Vendor url: http://www.jovanny.ru/
+    Designer: Jovanny Lemonad
+    Designer url: http://www.jovanny.ru/
+    Glyph count: 331
+    Character count: 323
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+  Font:
+    Common name: Philosopher
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.
+    License: Copyright (c) June 5, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name Nixie.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Jovanny Lemonad
+    Vendor url: http://www.jovanny.ru/
+    Designer: Jovanny Lemonad
+    Designer url: http://www.jovanny.ru/
+    Glyph count: 331
+    Character count: 323
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
